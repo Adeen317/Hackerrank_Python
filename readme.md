@@ -8,3 +8,7 @@
 - [Runner up score](https://github.com/Adeen317/Hackerrank_Python/blob/main/Runner_up_Score.py)
 - [Arithmetic Operators](https://github.com/Adeen317/Hackerrank_Python/blob/main/Arithmetic_operators.py)
 - [Average of Total Marks](https://github.com/Adeen317/Hackerrank_Python/blob/main/finding_percentage.py)
+
+- [Number Line Jumps](https://github.com/Adeen317/Hackerrank_Python/blob/adeen_space1/Number_Line_jumps_problem_solving.py)
+- [Between Two Sets](https://github.com/Adeen317/Hackerrank_Python/blob/adeen_space1/between_two_sets_pb.py)
+- [Count of Fruits](https://github.com/Adeen317/Hackerrank_Python/blob/adeen_space1/problem_solving.py)
