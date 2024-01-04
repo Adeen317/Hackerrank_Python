@@ -1,7 +1,7 @@
 # HACKERRANK PYTHON
 
 ##### This repository contains code for Python(Basic) consisting of a series of solved questions from hackerrank.
-##### You can visit my hackerrank profile fro here [Muhammad Adeen](https://www.hackerrank.com/profile/adeenishaq234)
+##### You can visit my hackerrank profile from here [Muhammad Adeen](https://www.hackerrank.com/profile/adeenishaq234)
 
 ## Table of Contents
 - [if-else](https://github.com/Adeen317/Hackerrank_Python/blob/main/if_else.py)
@@ -12,3 +12,4 @@
 - [Number Line Jumps](https://github.com/Adeen317/Hackerrank_Python/blob/adeen_space1/Number_Line_jumps_problem_solving.py)
 - [Between Two Sets](https://github.com/Adeen317/Hackerrank_Python/blob/adeen_space1/between_two_sets_pb.py)
 - [Count of Fruits](https://github.com/Adeen317/Hackerrank_Python/blob/adeen_space1/problem_solving.py)
+- [Exceptions](https://github.com/Adeen317/Hackerrank_Python/blob/main/Exceptions.py)
